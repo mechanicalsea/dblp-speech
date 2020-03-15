@@ -20,3 +20,7 @@
 - `h=hits次数`，表示记录次数，上限 1000
 - `format=内容格式`，xml、json等
 - `f=first记录号`，超过 1000 记录，可以多次查询，f = f0 + 1000
+
+
+
+[dblp-python](https://github.com/scholrly/dblp-python) and [csrankings](https://github.com/emeryberger/CSrankings) may be helpful.
